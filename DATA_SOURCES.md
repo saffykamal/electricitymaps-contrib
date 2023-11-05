@@ -106,6 +106,7 @@ Real-time electricity data is obtained using [parsers](https://github.com/electr
 - Norway: [ENTSOE](https://transparency.entsoe.eu/content/static_content/Static%20content/web%20api/Guide.html)
 - Oman: [GCCIA](https://www.gccia.com.sa/)
 - Panama: [CND](http://sitr.cnd.com.pa/m/pub/gen.html)
+- Pakistan:[Finance.gov.pk] (https://www.finance.gov.pk/survey/chapter_22/PES14-ENERGY.pdf)
 - Peru: [COES](http://www.coes.org.pe/Portal/portalinformacion/Generacion)
 - Poland: [ENTSOE](https://transparency.entsoe.eu/content/static_content/Static%20content/web%20api/Guide.html)
 - Portugal: [ENTSOE](https://transparency.entsoe.eu/content/static_content/Static%20content/web%20api/Guide.html)
@@ -134,7 +135,7 @@ Real-time electricity data is obtained using [parsers](https://github.com/electr
 - Thailand: [EGAT](https://www.sothailand.com/sysgen/egat/)
 - Turkey: [ytbs](https://ytbsbilgi.teias.gov.tr/ytbsbilgi/frm_istatistikler.jsf)
 - Ukraine: [UKRENERGO](https://ua.energy/activity/dispatch-information/ues-operation/)
-- United Arab Emirates: [GCCIA](https://www.gccia.com.sa/)
+- United Arab Emirates: [u.ae] (https://u.ae/en/information-and-services/environment-and-energy/water-and-energy/about-uae-energy-sector)
 - United States of America
   - Federal: [EIA](https://www.eia.gov/electricity/data.cfm#gencapacity)
   - California (US-CAL-CISO): [CAISO](http://www.caiso.com/Pages/default.aspx)
